@@ -484,7 +484,7 @@ ninja.data = [{
         title: 'envoyer un courriel',
         section: 'réseaux sociaux',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%63%61%73%73%61%6E%64%72%61.%67%65%64%65%6F%6E@%75%63%61.%66%72", "_blank");
         },
       },{
         id: 'social-inspire',
