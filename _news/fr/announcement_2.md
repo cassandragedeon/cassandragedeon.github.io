@@ -1,33 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Symposium à l'EASP 2026 — Social Development, Intergroup Cognition
+date: 2026-07-02 09:00:00-0400
 inline: false
 related_posts: false
 ---
+Le 2 juillet 2026, j'ai eu le plaisir de présider un symposium au [congrès de l'European Association for Social Psychology (EASP)](https://easp.eu/), intitulé **"Social Development: A Focus on Intergroup Cognition in Development"**, où j'ai notamment présenté mes travaux sur les attitudes intergroupes chez les enfants d'âge préscolaire dans des contextes conflictuels (*Intergroup attitudes in preschool children in conflictual intergroup settings: The case of Romania and Lebanon*).
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Merci à mes collègues qui ont partagé leurs recherches lors de ce symposium :
 
----
+- **Sophie Arnold** — *Teaching accurate genetics science reduces high schoolers' gender essentialism*
+- **Nuccio Ludovico** — *Game Changers: Linking Motivational Aspects and Anti-Bullying Behavior in Youth Sports*
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Merci également à **Kristin Shutts**, qui a animé la discussion finale et permis de mettre en perspective ces différentes approches du développement social et de la cognition intergroupe chez l'enfant et l'adolescent·e.
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
