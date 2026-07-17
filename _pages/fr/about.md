@@ -6,7 +6,7 @@ permalink: /
 subtitle: subtitle: <strong>Maîtresse de Conférences en Psychologie</strong> · <a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:
