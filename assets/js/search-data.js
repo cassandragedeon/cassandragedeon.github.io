@@ -419,8 +419,8 @@ ninja.data = [{
             },},{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
-          section: "actualités",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "actualités",},{id: "news-um-anúncio-longo-com-detalhes",
+          title: 'Um anúncio longo com detalhes',
           description: "",
           section: "actualités",handler: () => {
               window.location.href = "/news/announcement_2/";
