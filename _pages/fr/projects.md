@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: projets
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
