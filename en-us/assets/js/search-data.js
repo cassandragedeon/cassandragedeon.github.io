@@ -419,8 +419,8 @@ ninja.data = [{
             },},{id: "news-publication-of-the-edited-volume-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-featuring-a-chapter-co-authored-with-céline-darnon-les-enfants-et-les-inégalités",
           title: 'Publication of the edited volume Psychologie sociale des inégalités : perceptions, causes et...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-symposium-at-easp-2026-social-development",
+          title: 'Symposium at EASP 2026 — Social Development',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/announcement_2/";
