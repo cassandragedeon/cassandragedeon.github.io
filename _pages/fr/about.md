@@ -25,7 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Comment le contexte social façonne-t-il la manière dont nous percevons les autres, apprenons, et prenons nos décisions — de la maternelle à l'âge adulte ? C'est la question qui traverse mes recherches, à la croisée de la psychologie du développement, sociale et cognitive. <br>
-  Maîtresse de conférences à l'Université Clermont Auvergne ([LAPSCO](https://www.lapsco.fr), UMR CNRS 6024), j'étudie le développement socio-cognitif du jeune enfant (3-6 ans) ainsi que les relations intergroupes chez l'adulte, autour de deux axes complémentaires. <br>
-  Le premier porte sur le développement de l'identité et des attitudes intergroupes chez le jeune enfant : catégorisation sociale, construction d'une identité bi- ou multiculturelle, attitudes et comportements intergroupes, compréhension du pouvoir social et des inégalités, ostracisme et comportements prosociaux, ou encore attention et confiance sélective. <br>
+Comment le contexte social façonne-t-il la manière dont nous percevons les autres, apprenons, et prenons nos décisions — de la maternelle à l'âge adulte ? C'est la question qui traverse mes recherches, à la croisée de la psychologie du développement, sociale et cognitive.
+
+  Maîtresse de conférences à l'Université Clermont Auvergne ([LAPSCO](https://www.lapsco.fr), UMR CNRS 6024), j'étudie le développement socio-cognitif du jeune enfant (3-6 ans) ainsi que les relations intergroupes chez l'adulte, autour de deux axes complémentaires. 
+  
+  Le premier porte sur le développement de l'identité et des attitudes intergroupes chez le jeune enfant : catégorisation sociale, construction d'une identité bi- ou multiculturelle, attitudes et comportements intergroupes, compréhension du pouvoir social et des inégalités, ostracisme et comportements prosociaux, ou encore attention et confiance sélective. 
+  
   Le second explore les relations intergroupes et les discriminations dans le milieu médical, en particulier la relation médecin-patient et les biais dans l'évaluation de la douleur, dans une perspective intersectionnelle croisant origine ethnique, genre et classe sociale.
