@@ -69,7 +69,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us/people/";
           },
-        },{id: "dropdown-estante-de-livros",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/en-us/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/en-us/blog/";
+              },
+            },{id: "dropdown-estante-de-livros",
               title: "estante de livros",
               description: "",
               section: "Dropdown",
