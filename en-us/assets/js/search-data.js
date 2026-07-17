@@ -419,18 +419,15 @@ ninja.data = [{
             },},{id: "news-publication-of-the-edited-volume-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-featuring-a-chapter-co-authored-with-céline-darnon-les-enfants-et-les-inégalités",
           title: 'Publication of the edited volume Psychologie sociale des inégalités : perceptions, causes et...',
           description: "",
+          section: "News",},{id: "news-co-organized-with-stella-tsamitrou-a-gathering-day-for-ministry-of-education-primary-school-psychologists-hosted-by-the-e-3c-platform-behavior-brain-cognition-in-the-digital-transition-era",
+          title: 'Co-organized, with Stella Tsamitrou, a gathering day for Ministry of Education (primary school)...',
+          description: "",
           section: "News",},{id: "news-symposium-at-easp-2026-social-development",
           title: 'Symposium at EASP 2026 — Social Development',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-co-organized-with-stella-tsamitrou-a-gathering-day-for-ministry-of-education-primary-school-psychologists-hosted-by-the-e-3c-platform-behavior-brain-cognition-in-the-digital-transition-era",
-          title: 'Co-organized, with Stella Tsamitrou, a gathering day for Ministry of Education (primary school)...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

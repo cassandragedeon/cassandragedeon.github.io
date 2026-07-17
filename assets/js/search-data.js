@@ -416,21 +416,18 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
-          description: "",
-          section: "actualités",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
-          description: "",
-          section: "actualités",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-parution-de-l-ouvrage-collectif-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-avec-un-chapitre-co-écrit-avec-céline-darnon-les-enfants-et-les-inégalités",
+          title: 'Parution de l’ouvrage collectif Psychologie sociale des inégalités : perceptions, causes et conséquences...',
           description: "",
           section: "actualités",},{id: "news-organisation-avec-stella-tsamitrou-d-une-journée-de-regroupement-des-psychologues-de-l-éducation-nationale-1er-degré-au-sein-de-la-plateforme-e-3c-comportement-cerveau-cognition-à-l-ère-de-la-transition-numérique",
           title: 'Organisation, avec Stella Tsamitrou, d’une journée de regroupement des psychologues de l’Éducation nationale...',
           description: "",
-          section: "actualités",},{id: "projects-project-1",
+          section: "actualités",},{id: "news-symposium-à-l-39-easp-2026-social-development-intergroup-cognition",
+          title: 'Symposium à l&amp;#39;EASP 2026 — Social Development, Intergroup Cognition',
+          description: "",
+          section: "actualités",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "projets",handler: () => {
