@@ -43,10 +43,10 @@
     - title: Teaching and Research Associate in Social Psychology
       institution: Université Paris Nanterre, France
       year: 2021 - 2022
-
+      
 - title: Research Activities
   type: nested_list
-    contents:
+  contents:
     - title: Communications at scientific conferences
       items:
         - "Conferences: SPSP Convention (Society for Personality and Social Psychology), EASP Congress (European Association of Social Psychology), BCCCD Meeting (Budapest CEU Conference on Cognitive Development), Congrès International de Psychologie Sociale (CIPS), Midwestern Psychological Association Convention (MPA)"
