@@ -424,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
+          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-co-organized-with-stella-tsamitrou-a-gathering-day-for-ministry-of-education-primary-school-psychologists-hosted-by-the-e-3c-platform-behavior-brain-cognition-in-the-digital-transition-era",
           title: 'Co-organized, with Stella Tsamitrou, a gathering day for Ministry of Education (primary school)...',

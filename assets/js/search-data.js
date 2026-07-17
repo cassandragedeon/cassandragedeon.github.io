@@ -424,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "actualités",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
+          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "actualités",},{id: "news-organisation-avec-stella-tsamitrou-d-une-journée-de-regroupement-des-psychologues-de-l-éducation-nationale-1er-degré-au-sein-de-la-plateforme-e-3c-comportement-cerveau-cognition-à-l-ère-de-la-transition-numérique",
           title: 'Organisation, avec Stella Tsamitrou, d’une journée de regroupement des psychologues de l’Éducation nationale...',
