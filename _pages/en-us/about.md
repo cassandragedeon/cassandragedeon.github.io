@@ -29,11 +29,9 @@ latest_posts:
 ---
 
 How does social context shape the way we perceive others, learn, and make decisions — from preschool to adulthood? That question runs through my research, at the crossroads of developmental, social, and cognitive psychology.
-As an Assistant Professor at Université Clermont Auvergne ([LAPSCO] (https://www.lapsco.fr/), UMR CNRS 6024), I study socio-cognitive development in young children (ages 3-6) as well as intergroup relations in adults, along two complementary lines of research.
+As an Assistant Professor at Université Clermont Auvergne ([LAPSCO](https://www.lapsco.fr/), UMR CNRS 6024), I study socio-cognitive development in young children (ages 3-6) as well as intergroup relations in adults, along two complementary lines of research.
 The first focuses on the development of identity and intergroup attitudes in young children: social categorization, the construction of bi- or multicultural identity, intergroup attitudes and behaviors, understanding of social power and inequality, ostracism and prosocial behavior, and selective attention and trust.
 The second explores intergroup relations and discrimination in medical settings, particularly the doctor-patient relationship and bias in pain evaluation, from an intersectional perspective crossing ethnicity, gender, and social class.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
 
