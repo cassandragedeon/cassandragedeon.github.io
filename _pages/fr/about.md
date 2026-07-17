@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: à propos
 permalink: /
-subtitle: <strong>Maîtresse de Conférences en Psychologie</strong><br><a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne
+subtitle: <strong>Maîtresse de Conférences en Psychologie</strong><br><a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne<br><a href="mailto:cassandra.gedeon@uca.fr">cassandra.gedeon@uca.fr</a>
 
 profile:
   align: left
