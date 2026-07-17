@@ -44,7 +44,20 @@
       institution: Université Paris Nanterre, France
       year: 2021 - 2022
 
-
-
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Research Activities
+  type: nested_list
+    contents:
+    - title: Communications at scientific conferences
+      items:
+        - "Conferences: SPSP Convention (Society for Personality and Social Psychology), EASP Congress (European Association of Social Psychology), BCCCD Meeting (Budapest CEU Conference on Cognitive Development), Congrès International de Psychologie Sociale (CIPS), Midwestern Psychological Association Convention (MPA)"
+        - 8 poster communications
+        - 2 oral communications
+    - title: Invited talks
+      items:
+        - 6 invited talks at seminars and meetings
+    - title: Peer Review
+      items:
+        - Reviewer for Humanities and Social Sciences Communications (HSSC)
+        - Reviewer for International Review of Social Psychology (IRSP)
+        - Reviewer for Peace and Conflict (PAC)
+        - Reviewer for Psychologie Française
