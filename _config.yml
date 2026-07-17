@@ -368,8 +368,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["fr-ca", "en-us"]
-default_lang: "fr-ca"
+languages: ["en-us", "fr"]
+default_lang: "fr"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
