@@ -416,8 +416,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/en-us/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-publication-of-the-edited-volume-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-featuring-a-chapter-co-authored-with-céline-darnon-les-enfants-et-les-inégalités",
+          title: 'Publication of the edited volume Psychologie sociale des inégalités : perceptions, causes et...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
