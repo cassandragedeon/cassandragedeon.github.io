@@ -28,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Comment le contexte social façonne-t-il la manière dont nous percevons les autres, apprenons, et prenons nos décisions — de la maternelle à l'âge adulte ? C'est la question qui traverse mes recherches, à la croisée de la psychologie du développement, sociale et cognitive.
+  Maîtresse de conférences à l'Université Clermont Auvergne ([LAPSCO] (https://www.lapsco.fr), UMR CNRS 6024), j'étudie le développement socio-cognitif du jeune enfant (3-6 ans) ainsi que les relations intergroupes chez l'adulte, autour de deux axes complémentaires.
+  Le premier porte sur le développement de l'identité et des attitudes intergroupes chez le jeune enfant : catégorisation sociale, construction d'une identité bi- ou multiculturelle, attitudes et comportements intergroupes, compréhension du pouvoir social et des inégalités, ostracisme et comportements prosociaux, ou encore attention et confiance sélective.
+  Le second explore les relations intergroupes et les discriminations dans le milieu médical, en particulier la relation médecin-patient et les biais dans l'évaluation de la douleur, dans une perspective intersectionnelle croisant origine ethnique, genre et classe sociale.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
