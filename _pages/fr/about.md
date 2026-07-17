@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: à propos
 permalink: /
 subtitle: <strong>Maîtresse de Conférences en Psychologie</strong><br><a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne
 
