@@ -3,8 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Assistant Professor in Psychology</strong> · <br>
-<a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne
+subtitle: <strong>Assistant Professor in Psychology</strong> <br><a href="https://www.lapsco.fr">LAPSCO</a>, Université Clermont Auvergne
 
 profile:
   align: left
