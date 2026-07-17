@@ -1,101 +1,63 @@
-- title: Information Générales
+- title: Informations générales
   type: map
   contents:
     - name: Nom complet
-      value: Albert Einstein
-    - name: Date de naissance
-      value: 14 mars 1879
+      value: Cassandra Gedeon
     - name: Langues
-      value: Anglais, Allemand
-
-- title: Éducation
+      value: Français, Anglais, Arabe
+- title: Formation
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctorat en psychologie
+      institution: Université Paris Nanterre, France
+      year: Décembre 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sous-description 1.
-            - Sous-description 2.
-    - title: Brevet fédéral d'enseignement
-      institution: Eidgenössische Technische Hochschule, Zurich, Suisse
-      year: 1900
+        - "Thèse : Le développement de la catégorisation sociale et des attitudes intergroupes chez les enfants âgés de 3 à 6 ans : l'impact du statut social et du statut numérique"
+        - "Directrices de thèse : Constantina Badea et Rana Esseily"
+
+    - title: Master en psychologie
+      institution: Université Paris Nanterre, France
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - "Mémoire : L'impact de l'appartenance groupale sur la catégorisation sociale et la perception des différences culturelles chez les enfants âgés de 4 à 6 ans"
+        - "Directrices de mémoire : Constantina Badea et Rana Esseily"
 
 - title: Expérience
   type: time_table
   contents:
-    - title: Professeur de physique théorique
-      institution: Institut d'études avancées, Université de Princeton
-      year: 1933 - 1955
+    - title: Maîtresse de conférences
+      institution: Université Clermont-Auvergne, France
+      year: 2024 - présent
+
+    - title: Chercheuse postdoctorale
+      institution: University of Wisconsin-Madison, USA
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sous-description 1.
-            - Sous-description 2.
-    - title: Professeur invité
-      institution: Institut de technologie de Californie, Pasadena, Californie, États-Unis
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - "Superviseur : Markus Brauer"
 
-    - title: Directeur
-      institution: Institut Kaiser Wilhelm de physique, Berlin, Allemagne.
-      year: 1917-1933
+    - title: Attachée temporaire d'enseignement et de recherche en psychologie du développement
+      institution: Université Paris Nanterre, France
+      year: 2022 - 2023
+      
+    - title: Attachée temporaire d'enseignement et de recherche en psychologie sociale
+      institution: Université Paris Nanterre, France
+      year: 2021 - 2022
 
-    - title: Professeur de physique théorique
-      institution: Université Karl-Ferdinand, Prague, Tchécoslovaquie
-      year: 1911 - 1917
-      description:
-
-    - title: Professeur associé de physique théorique
-      institution: Université de Zurich, Zurich, Suisse
-      year: 1909 - 1911
-
-- title: Projets Open Source
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-présent
-      description: Un fork du thème al-folio avec prise en charge de plusieurs langues.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-présent
-      description: Un thème Jekyll magnifique, simple, propre et réactif pour les universitaires.
-
-- title: Prixs et Bourses
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prix Nobel de physique
-        - Médaille Matteucci
-    - year: 2029
-      items:
-        - Médaille Max Planck
-
-- title: Intérêts académiques
+- title: Activités de recherche
   type: nested_list
   contents:
-    - title: Sujet 1.
+    - title: Communications à des conférences scientifiques
       items:
-        - Description 1.
-        - Description 2.
-    - title: Sujet 2.
+        - "Conférences : SPSP Convention (Society for Personality and Social Psychology), EASP Congress (European Association of Social Psychology), BCCCD Meeting (Budapest CEU Conference on Cognitive Development), Congrès International de Psychologie Sociale (CIPS), Midwestern Psychological Association Convention (MPA)"
+        - 8 communications poster
+        - 2 communications orales
+    - title: Conférences invitées
       items:
-        - Description 1.
-        - Description 2.
+        - 6 conférences invitées (séminaires et rencontres scientifiques)
 
-- title: Autres Intérêts
-  type: list
-  contents:
-    - <u>Loisirs:</u> Loisir 1, Loisir 2, etc.
+    - title: Expertise (peer review)
+      items:
+        - Humanities and Social Sciences Communications (HSSC)
+        - International Review of Social Psychology (IRSP)
+        - Peace and Conflict (PAC)
+        - Psychologie Française
