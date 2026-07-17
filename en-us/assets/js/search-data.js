@@ -473,18 +473,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/cassge.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'Send an email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%61%73%73%61%6E%64%72%61.%67%65%64%65%6F%6E@%75%63%61.%66%72", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/cassge.bsky.social", "_blank");
         },
       },{
         id: 'social-linkedin',
