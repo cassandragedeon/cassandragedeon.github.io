@@ -139,7 +139,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
-                      {{ other_language | upcase }}
+                      {% if other_language == "fr" %}Français{% elsif other_language == "en-us" %}English{% endif %}
                     {%- endif -%}
                   </a>
                 {% else %}
@@ -147,7 +147,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
                     {% else %}
-                      {{ site.default_lang | upcase }}
+                      {% if site.default_lang == "fr" %}Français{% elsif site.default_lang == "en-us" %}English{% endif %}
                     {%- endif -%}
                   </a>
                 {% endif %}
