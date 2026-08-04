@@ -320,7 +320,7 @@ ninja.data = [{
         section: "articles",
         handler: () => {
           
-            window.location.href = "/assets/pdf/pt-br/example_pdf.pdf";
+            window.location.href = "/assets/pdf/en-us/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -378,11 +378,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/math/";
           
         },
-      },{id: "post-uma-postagem-com-código",
+      },{id: "post-a-post-with-code",
         
-          title: "uma postagem com código",
+          title: "a post with code",
         
-        description: "um exemplo de uma postagem em um blog com código",
+        description: "an example of a blog post with some code",
         section: "articles",
         handler: () => {
           
