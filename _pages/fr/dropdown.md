@@ -2,6 +2,7 @@
 id: dropdown
 layout: page
 title: submenus
+permalink: /dropdown/
 nav: false
 nav_order: 8
 dropdown: false
