@@ -20,19 +20,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/en-us/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications in reversed chronological order",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/en-us/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/en-us/projects/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications in reversed chronological order",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/en-us/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
