@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-How does social context shape the way we perceive others, learn, and make decisions — from preschool to adulthood? That question runs through my research, at the crossroads of developmental, social, and cognitive psychology.
+**How does social context shape the way we perceive others, learn, and make decisions — from preschool to adulthood? That question runs through my research, at the crossroads of developmental, social, and cognitive psychology.**
 
 As an Assistant Professor at Université Clermont Auvergne ([LAPSCO](https://www.lapsco.fr/), UMR CNRS 6024), I study sociocognitive processes through their development in young children, as well as their expressions in adults, along two complementary lines of research.
 
