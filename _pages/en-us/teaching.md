@@ -18,7 +18,7 @@ My teaching aims to create a stimulating, interactive, and inclusive learning en
 * Course lead: Developmental Psychology 3 (L2), Learning Processes & Development (M1)
 * Co-lead: Scientific Communication in English (M1 RiSC), Constructing Risk: The Role of Socialization (M2 RiSC)
 * Supervision of undergraduate research projects (L3)
-* Member of the pedagogical committee, [RiSC Master's program](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-2-psychologie-parc-risques-et-sciences-du-comportement-risc)
+* Member of the pedagogical committee of the [RiSC Master's program](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-2-psychologie-parc-risques-et-sciences-du-comportement-risc)
 
 **Université Paris Nanterre** (2019–2023)<br>
 Developmental Psychology (Early Childhood; Children & Adolescents) · Social Psychology (Self & Social Comparison; Individuals & Groups) · Research Methods (Experimental, Surveys, Observation) · Professional Communication & Academic Writing
