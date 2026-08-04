@@ -432,9 +432,9 @@ ninja.data = [{
           description: "How context shapes racial categorization and intergroup attitudes in children",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-biais-in-healthcare-doctor-patient-communication",
+          title: 'Biais in Healthcare: Doctor-Patient Communication',
+          description: "How patients&#39; racial identity shapes medical communication",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
