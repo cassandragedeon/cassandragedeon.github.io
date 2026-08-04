@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Parution de l'ouvrage collectif *Psychologie sociale des inégalités : perceptions, causes et conséquences* (Dunod), avec un chapitre co-écrit avec Céline Darnon : *Les enfants et les inégalités*.
+Parution de l'ouvrage collectif **[Psychologie sociale des inégalités : perceptions, causes et conséquences](https://www.dunod.com/sciences-humaines-et-sociales/psychologie-sociale-inegalites-perceptions-causes-et-consequences)** (Dunod), avec un chapitre co-écrit avec Céline Darnon : *Les enfants et les inégalités*.
