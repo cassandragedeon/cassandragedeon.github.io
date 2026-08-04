@@ -437,9 +437,9 @@ ninja.data = [{
           description: "How patients&#39; racial identity shapes medical communication",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-children-39-s-understanding-of-social-power",
+          title: 'Children&amp;#39;s Understanding of Social Power',
+          description: "Do children understand and respond to social power?",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/3_project/";
             },},{id: "projects-project-4",
