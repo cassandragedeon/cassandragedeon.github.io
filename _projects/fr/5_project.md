@@ -8,7 +8,7 @@ importance: 5
 category: work
 ---
 
-Conducted in the Auvergne region with Stella Tsamitrou, and supported by the IMPULSION funding scheme from Université Clermont-Auvergne, GRANDIR ENSEMBLE evaluates the effectiveness of inclusiMené en Auvergne avec Stella Tsamitrou, avec le soutien du financement IMPULSION de l'Université Clermont-Auvergne, GRANDIR ENSEMBLE évalue l'efficacité des dispositifs de scolarisation inclusive en maternelle — en particulier les Unités d'Enseignement en Maternelle Autisme (UEMA).
+Mené en Auvergne avec Stella Tsamitrou, avec le soutien du financement IMPULSION de l'Université Clermont-Auvergne, GRANDIR ENSEMBLE évalue l'efficacité des dispositifs de scolarisation inclusive en maternelle — en particulier les Unités d'Enseignement en Maternelle Autisme (UEMA).
 
 Le projet adopte une approche développementale, en examinant chez les enfants typiques de 3 à 6 ans les attitudes envers l'autisme et les comportements sociaux à l'égard de leurs pairs avec TSA. En comparant des écoles avec et sans UEMA, il analyse comment le contexte inclusif façonne la construction des représentations sociales du handicap.
 
