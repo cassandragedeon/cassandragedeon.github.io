@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Comment les catégories sociales façonnent l&#39;évaluation de la douleur d&#39;autrui",
           section: "projets",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-grandir-ensemble-preschool-inclusion-and-attitudes-toward-autism",
-          title: 'GRANDIR ENSEMBLE: Preschool Inclusion and Attitudes Toward Autism',
-          description: "The impact of inclusive preschool programs on children&#39;s attitudes and interactions",
+            },},{id: "projects-grandir-ensemble-inclusion-en-maternelle-et-attitudes-envers-l-39-autisme",
+          title: 'GRANDIR ENSEMBLE : inclusion en maternelle et attitudes envers l&amp;#39;autisme',
+          description: "L&#39;impact des dispositifs d&#39;inclusion en maternelle sur les attitudes et interactions entre enfants",
           section: "projets",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
