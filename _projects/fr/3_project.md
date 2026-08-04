@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: "Compréhension du pouvoir social chez l'enfant"
 description: Les enfants comprennent-ils et réagissent-ils au pouvoir social ?
-img: assets/img/children.jpg
+img: assets/img/power.jpg
 importance: 3
 category: work
 related_publications: false
