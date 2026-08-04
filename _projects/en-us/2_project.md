@@ -1,7 +1,7 @@
 ---
 page_id: project_2
 layout: page
-title: Biais in Healthcare: Doctor-Patient Communication
+title: "Biais in Healthcare: Doctor-Patient Communication"
 description: How patients' racial identity shapes medical communication
 img: assets/img/3.jpg
 importance: 2
