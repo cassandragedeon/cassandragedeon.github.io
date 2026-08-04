@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Development of Social Categorization and Intergroup Attitudes
 description: How context shapes racial categorization and intergroup attitudes in children
-img: assets/img/12.jpg
+img: assets/img/Kids
 importance: 1
 category: work
 related_publications: true
