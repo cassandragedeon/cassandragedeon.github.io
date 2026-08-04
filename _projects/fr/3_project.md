@@ -6,7 +6,7 @@ description: Les enfants comprennent-ils et réagissent-ils au pouvoir social ?
 img: assets/img/children.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 Le pouvoir social se définit par un contrôle asymétrique des ressources et la capacité à influencer autrui tout en résistant à être influencé. Chez l'adulte, le pouvoir façonne de nombreux comportements : les personnes en position de pouvoir résistent davantage à l'influence normative, se concentrent plus sur leurs objectifs, et affichent une plus grande confiance en elles. Chez l'enfant, appartenir à un groupe social de faible pouvoir peut par ailleurs affecter négativement les fonctions exécutives et les performances.
 
