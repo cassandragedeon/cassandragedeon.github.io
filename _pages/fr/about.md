@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Comment le contexte social façonne-t-il la manière dont nous percevons les autres, apprenons, et prenons nos décisions — de la maternelle à l'âge adulte ? C'est la question qui traverse mes recherches, à la croisée de la psychologie du développement, sociale et cognitive.
+**Comment le contexte social façonne-t-il la manière dont nous percevons les autres, apprenons, et prenons nos décisions — de la maternelle à l'âge adulte ? C'est la question qui traverse mes recherches, à la croisée de la psychologie du développement, sociale et cognitive.**
 
   Maîtresse de conférences à l'Université Clermont Auvergne ([LAPSCO](https://www.lapsco.fr), UMR CNRS 6024), j'étudie les processus socio-cognitifs au travers de leur développement chez le jeune enfant, ainsi que leurs expressions chez l'adulte, autour de deux axes complémentaires.
   
