@@ -432,11 +432,11 @@ ninja.data = [{
           description: "Comment le contexte façonne la catégorisation sociale et les attitudes intergroupes chez l&#39;enfant",
           section: "projets",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-biais-in-healthcare-doctor-patient-communication",
-          title: 'Biais in Healthcare: Doctor-Patient Communication',
-          description: "How patients&#39; racial identity shapes medical communication",
+            },},{id: "projects-biais-en-santé-communication-entre-médecins-et-patients",
+          title: 'Biais en santé : communication entre médecins et patients',
+          description: "Comment l&#39;origine ethno-raciale des patient·e·s façonne la communication médicale",
           section: "projets",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_projetc/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
