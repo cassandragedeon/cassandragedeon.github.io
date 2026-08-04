@@ -427,9 +427,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/en-us/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-development-of-social-categorization-and-intergroup-attitudes",
+          title: 'Development of Social Categorization and Intergroup Attitudes',
+          description: "How context shapes racial categorization and intergroup attitudes in children",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/1_project/";
             },},{id: "projects-project-2",
