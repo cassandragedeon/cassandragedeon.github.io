@@ -3,7 +3,7 @@ page_id: project_5
 layout: page
 title: "GRANDIR ENSEMBLE: Preschool Inclusion and Attitudes Toward Autism"
 description: The impact of inclusive preschool programs on children's attitudes and interactions
-img: assets/img/1.jpg
+img: assets/img/school.jpeg
 importance: 5
 category: work
 ---
