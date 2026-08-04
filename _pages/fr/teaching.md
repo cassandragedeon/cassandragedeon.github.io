@@ -14,7 +14,7 @@ Ma pédagogie vise à créer un environnement d'apprentissage stimulant, interac
 
 ### Enseignements et responsabilités
 
-**Université Clermont Auvergne** (depuis 2024)
+**[Université Clermont Auvergne](https://pssse.uca.fr)** (depuis 2024)
 - Responsable d'enseignement : Psychologie du Développement 3 (L2), Processus d'Apprentissage et Développement (M1)
 - Co-responsable : Communication Scientifique en Anglais (M1 RiSC), Construire le Risque : le rôle de la socialisation (M2 RiSC)
 - Encadrement Travail d'Étude et de Recherche (L3)
