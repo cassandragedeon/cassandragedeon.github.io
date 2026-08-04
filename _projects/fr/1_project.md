@@ -1,82 +1,29 @@
 ---
 page_id: project_1
 layout: page
-title: project 1
-description: with background image
+title: Développement de la catégorisation sociale et des attitudes intergroupes
+description: Comment le contexte façonne la catégorisation sociale et les attitudes intergroupes chez l'enfant
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+Quelle est l'influence du contexte sur le développement de la catégorisation sociale et de la perception intergroupe chez l'enfant de 3 à 6 ans ? 
+Cette question guide mon travail sur l'interaction entre contexte social et relations intergroupes, durant les années charnières de la petite enfance.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+La catégorisation sociale façonne fortement la manière dont les individus perçoivent, pensent et se comportent vis-à-vis de leur groupe d'appartenance et des autres groupes. La perception des différences ethno-raciales est particulièrement sensible au contexte : la familiarité et l'expérience individuelle influencent si un enfant considère l'origine ethnique comme un critère de catégorisation pertinent. Appartenir à un groupe minoritaire ou marginalisé accentue la saillance cognitive de l'origine ethnique — mais un groupe peut être majoritaire dans la société tout en étant minoritaire dans un contexte donné, comme une école très diversifiée. Que se passe-t-il alors pour des enfants appartenant à un groupe ethniquement marginalisé, mais scolarisés dans un contexte où ils sont numériquement majoritaires ? 
+J'ai exploré ces questions théoriques dans une note publiée dans *Frontiers in Psychology* (2021).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Plusieurs études en contexte scolaire français.** J'ai examiné comment l'appartenance groupale et la taille relative du groupe influencent la catégorisation ethno-raciale et la perception de distance culturelle, en comparant des enfants de groupes marginalisés ou non, en position minoritaire, majoritaire ou d'égalité numérique dans leur école. Les enfants plus âgés catégorisaient davantage selon l'origine ethnique — une trajectoire développementale connue — et cet effet était le plus marqué dans les écoles où les enfants de groupes marginalisés représentaient une part importante des effectifs. Sur la perception de distance culturelle, tous les enfants percevaient les enfants Noir- et Nord-Africains comme culturellement plus éloignés qu'un enfant Blanc — sauf dans les écoles à composition numériquement équilibrée, suggérant qu'un contexte scolaire favorable peut partiellement compenser les rapports de pouvoir asymétriques de la société environnante.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Deux études en contextes conflictuels (Liban et Roumanie).** Ces contextes, marqués par une exclusion visible et des rapports de pouvoir asymétriques, restent peu étudiés en psychologie du développement. Une première étude a montré une préférence marquée des enfants pour un exogroupe valorisé (les Français) et un rejet constant d'un exogroupe stigmatisé (les Syriens au Liban, les Roms en Roumanie), y compris chez les plus jeunes participants. Une seconde étude, où seule l'étiquette du groupe variait (l'apparence physique restant identique), a fait disparaître la préférence pour l'exogroupe valorisé — mais le rejet de l'exogroupe stigmatisé a persisté, montrant qu'une simple étiquette suffit à déclencher l'exclusion.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Ces résultats soulignent la force des biais précoces envers les groupes stigmatisés et la sensibilité des jeunes enfants aux étiquettes sociales, au-delà des seuls indices visuels. Comprendre comment ce développement varie selon les contextes constitue une première étape essentielle pour concevoir des interventions destinées à réduire ces biais dès la petite enfance, et pour outiller les professionnel·le·s de l'éducation dans l'intégration de pratiques de socialisation à la diversité.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Publications liées
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+{% cite gedeon2022developpement %}
+{% cite gedeon2024racial %}
+{% cite gedeon2026intergroup %}
+{% cite gedeon2021examining %}
+{% cite gedeon2021racial %}
