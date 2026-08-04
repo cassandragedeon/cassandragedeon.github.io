@@ -3,6 +3,7 @@ page_id: project_4
 layout: page
 title: "Biais en santé : Perception de la douleur"
 description: Comment les catégories sociales façonnent l'évaluation de la douleur d'autrui
+img: assets/img/inequality.png
 importance: 4
 category: work
 related_publications: false
