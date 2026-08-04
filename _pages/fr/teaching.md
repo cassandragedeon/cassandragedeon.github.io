@@ -14,12 +14,10 @@ Ma pédagogie vise à créer un environnement d'apprentissage stimulant, interac
 
 ### Enseignements et responsabilités
 
-Expertise en psychologie sociale et du développement, ainsi qu'en méthodologie de la recherche (observation, entretiens, questionnaires, expérimentation). Conception de syllabus et d'évaluations, encadrement de projets de recherche étudiants.
-
 **Université Clermont Auvergne** (depuis 2024)
 - Responsable d'enseignement : Psychologie du Développement 3 (L2), Processus d'Apprentissage et Développement (M1)
 - Co-responsable : Communication Scientifique en Anglais (M1 RiSC), Construire le Risque : le rôle de la socialisation (M2 RiSC)
-- Encadrement TER (L3)
+- Encadrement Travail d'Étude et de Recherche (L3)
 - Membre de l'équipe pédagogique du [Master RiSC](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-2-psychologie-parc-risques-et-sciences-du-comportement-risc)
 
 **Université Paris Nanterre** (2019–2023)
