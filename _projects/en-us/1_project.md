@@ -1,82 +1,27 @@
 ---
 page_id: project_1
 layout: page
-title: project 1
-description: with background image
+title: Development of Social Categorization and Intergroup Attitudes
+description: How context shapes racial categorization and intergroup attitudes in children
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+What is the influence of context on the development of racial categorization and intergroup perception in 3- to 6-year-old children?
+This question guides my work on the interplay between social context and intergroup relations, during the pivotal early childhood years.
+Social categorization strongly shapes how individuals perceive, think, and behave toward their ingroup and other groups. The perception of racial differences is particularly context-dependent: familiarity and individual experience influence whether a child considers race a meaningful categorization criterion. Belonging to a minority or marginalized group heightens the cognitive salience of race — yet a group can be a majority in society while being a minority in a given context, such as a highly diverse school. What happens, then, to children who belong to a racially marginalized group, but attend a school where they are the numerical majority?
+I explored these theoretical questions in a note published in *Frontiers in Psychology* (2021).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Several studies in the French school context.** I examined how group membership and relative group size influence racial categorization and the perception of cultural distance, comparing children from marginalized or non-marginalized groups, in minority, majority, or numerically balanced positions within their school. Older children categorized more strongly by race — a well-known developmental trajectory — and this effect was strongest in schools where children from marginalized groups made up a substantial share of the student population. On cultural distance perception, all children perceived Black and North African children as culturally more distant than a White child — except in schools with balanced group composition, suggesting that a favorable school context can partially offset the asymmetric power relations present in broader society.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Two studies in conflictual contexts (Lebanon and Romania).** These contexts, marked by visible exclusion and asymmetric power relations, remain understudied in developmental psychology. A first study showed a strong preference among children for a valued outgroup (French) and consistent rejection of a stigmatized outgroup (Syrians in Lebanon, Roma in Romania), even among the youngest participants. A second study, in which only the group label varied (physical appearance held constant), eliminated the preference for the valued outgroup — but rejection of the stigmatized outgroup persisted, showing that a label alone is enough to trigger exclusion.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+These findings highlight the strength of early biases against stigmatized groups and young children's sensitivity to social labels, beyond visual cues alone. Understanding how this development varies across contexts is a crucial first step toward designing interventions to reduce these biases from early childhood on, and toward equipping education professionals to integrate diversity socialization practices into schools.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+### Related Publications
+{% cite gedeon2022developpement %}
+{% cite gedeon2024racial %}
+{% cite gedeon2026intergroup %}
+{% cite gedeon2021examining %}
