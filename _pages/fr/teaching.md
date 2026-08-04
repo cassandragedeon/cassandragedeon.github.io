@@ -20,7 +20,7 @@ Ma pédagogie vise à créer un environnement d'apprentissage stimulant, interac
 - Encadrement Travail d'Étude et de Recherche (L3)
 - Membre de l'équipe pédagogique du [Master RiSC](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-2-psychologie-parc-risques-et-sciences-du-comportement-risc)
 
-**Université Paris Nanterre** (2019–2023)
+**Université Paris Nanterre** (2019–2023)<br>
 Psychologie du développement (petite enfance ; enfants et adolescents) · Psychologie sociale (soi et comparaison sociale ; individus et groupes) · Méthodes de recherche (expérimentale, questionnaires, observation) · Communication professionnelle et rédaction académique
 
 ### Philosophie d'encadrement
