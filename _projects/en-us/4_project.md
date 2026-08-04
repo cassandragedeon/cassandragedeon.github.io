@@ -3,6 +3,7 @@ page_id: project_4
 layout: page
 title: "Bias in Healthcare: Pain Perception"
 description: How social categories shape the evaluation of others' pain
+img: assets/img/inequality.png
 importance: 4
 category: work
 related_publications: false 
