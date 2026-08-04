@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Développement de la catégorisation sociale et des attitudes intergroupes
 description: Comment le contexte façonne la catégorisation sociale et les attitudes intergroupes chez l'enfant
-img: assets/img/12.jpg
+img: assets/img/Kids
 importance: 1
 category: work
 related_publications: true
