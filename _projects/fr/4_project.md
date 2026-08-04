@@ -5,7 +5,7 @@ title: "Biais en santé : Perception de la douleur"
 description: Comment les catégories sociales façonnent l'évaluation de la douleur d'autrui
 importance: 4
 category: work
-related_publications: true 
+related_publications: false
 ---
 La prise en charge de la douleur est reconnue comme un droit humain fondamental, mais son évaluation reste inégale selon les individus. Comprendre comment la douleur d'autrui est perçue nécessite de dépasser une lecture purement biologique : le modèle biopsychosocial montre que la douleur est aussi une expérience relationnelle, où les proches et les professionnel·le·s de santé jouent un rôle central dans sa reconnaissance et sa prise en charge.
 
