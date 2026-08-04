@@ -5,7 +5,7 @@ title: "Bias in Healthcare: Pain Perception"
 description: How social categories shape the evaluation of others' pain
 importance: 4
 category: work
-related_publications: true 
+related_publications: false 
 ---
 
 Pain management is recognized as a fundamental human right, yet its assessment remains uneven across individuals. Understanding how others' pain is perceived requires moving beyond a purely biological account: the biopsychosocial model shows that pain is also a relational experience, in which relatives and healthcare professionals play a central role in recognizing and responding to it.
