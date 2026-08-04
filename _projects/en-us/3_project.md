@@ -6,7 +6,7 @@ description: Do children understand and respond to social power?
 img: assets/img/children.jpg
 importance: 3
 category: work
-related_publications: true 
+related_publications: false 
 ---
 
 Social power is defined by the asymmetric control of resources and the capacity to influence others while resisting being influenced. In adults, power shapes behavior in many ways: powerful individuals tend to resist normative influence, focus more on their goals, and experience greater confidence. In children, belonging to a low-power social group has also been shown to negatively affect executive functions and performance.
