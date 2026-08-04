@@ -70,12 +70,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-parution-de-l-ouvrage-collectif-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-avec-un-chapitre-co-écrit-avec-céline-darnon-les-enfants-et-les-inégalités",
+      },{id: "news-parution-de-l-ouvrage-collectif-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-avec-un-chapitre-co-écrit-avec-céline-darnon-les-enfants-et-les-inégalités",
           title: 'Parution de l’ouvrage collectif Psychologie sociale des inégalités : perceptions, causes et conséquences...',
           description: "",
           section: "actualités",},{id: "news-organisation-avec-stella-tsamitrou-d-une-journée-de-regroupement-des-psychologues-de-l-éducation-nationale-1er-degré-au-sein-de-la-plateforme-e-3c-comportement-cerveau-cognition-à-l-ère-de-la-transition-numérique",

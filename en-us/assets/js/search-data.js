@@ -70,12 +70,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/en-us/books/the_godfather/";
-            },},{id: "news-publication-of-the-edited-volume-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-featuring-a-chapter-co-authored-with-céline-darnon-les-enfants-et-les-inégalités",
+      },{id: "news-publication-of-the-edited-volume-psychologie-sociale-des-inégalités-perceptions-causes-et-conséquences-dunod-featuring-a-chapter-co-authored-with-céline-darnon-les-enfants-et-les-inégalités",
           title: 'Publication of the edited volume Psychologie sociale des inégalités : perceptions, causes et...',
           description: "",
           section: "News",},{id: "news-co-organized-with-stella-tsamitrou-a-gathering-day-for-ministry-of-education-primary-school-psychologists-hosted-by-the-e-3c-platform-behavior-brain-cognition-in-the-digital-transition-era",
