@@ -437,9 +437,9 @@ ninja.data = [{
           description: "Comment l&#39;origine ethno-raciale des patient·e·s façonne la communication médicale",
           section: "projets",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-children-39-s-understanding-of-social-power",
-          title: 'Children&amp;#39;s Understanding of Social Power',
-          description: "Do children understand and respond to social power?",
+            },},{id: "projects-compréhension-du-pouvoir-social-chez-l-39-enfant",
+          title: 'Compréhension du pouvoir social chez l&amp;#39;enfant',
+          description: "Les enfants comprennent-ils et réagissent-ils au pouvoir social ?",
           section: "projets",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
