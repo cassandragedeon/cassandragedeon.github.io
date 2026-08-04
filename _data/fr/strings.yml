@@ -26,7 +26,7 @@ citation:
 collections:
   books: livres
   posts: articles
-contact_note: Vous pouvez même ajouter une petite note indiquant lequel de ces moyens est le meilleur pour vous joindre.
+contact_note: ""
 cv:
   address: adresse
   area: région
