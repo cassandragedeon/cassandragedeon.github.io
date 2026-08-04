@@ -442,9 +442,9 @@ ninja.data = [{
           description: "Les enfants comprennent-ils et réagissent-ils au pouvoir social ?",
           section: "projets",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-bias-in-healthcare-pain-perception",
-          title: 'Bias in Healthcare: Pain Perception',
-          description: "How social categories shape the evaluation of others&#39; pain",
+            },},{id: "projects-biais-en-santé-perception-de-la-douleur",
+          title: 'Biais en santé : Perception de la douleur',
+          description: "Comment les catégories sociales façonnent l&#39;évaluation de la douleur d&#39;autrui",
           section: "projets",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
