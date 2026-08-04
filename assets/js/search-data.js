@@ -452,11 +452,6 @@ ninja.data = [{
           description: "L&#39;impact des dispositifs d&#39;inclusion en maternelle sur les attitudes et interactions entre enfants",
           section: "projets",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "projets",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",

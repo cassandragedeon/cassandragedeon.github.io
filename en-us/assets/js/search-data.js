@@ -452,11 +452,6 @@ ninja.data = [{
           description: "The impact of inclusive preschool programs on children&#39;s attitudes and interactions",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/en-us/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
