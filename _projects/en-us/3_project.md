@@ -3,6 +3,7 @@ page_id: project_3
 layout: page
 title: "Children's Understanding of Social Power"
 description: Do children understand and respond to social power?
+img: assets/img/children.jpg
 importance: 3
 category: work
 related_publications: true 
