@@ -20,7 +20,7 @@ My teaching aims to create a stimulating, interactive, and inclusive learning en
 * Supervision of undergraduate research projects (L3)
 * Member of the pedagogical committee of the [RiSC Master's program](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/master-2-psychologie-parc-risques-et-sciences-du-comportement-risc)
 
-**Université Paris Nanterre** (2019–2023)<br>
+**[Université Paris Nanterre](https://dep-psycho.parisnanterre.fr)** (2019–2023)<br>
 Developmental Psychology (Early Childhood; Children & Adolescents) · Social Psychology (Self & Social Comparison; Individuals & Groups) · Research Methods (Experimental, Surveys, Observation) · Professional Communication & Academic Writing
 
 ### Mentoring Philosophy
