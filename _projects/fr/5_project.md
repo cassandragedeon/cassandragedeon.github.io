@@ -3,7 +3,7 @@ page_id: project_5
 layout: page
 title: "GRANDIR ENSEMBLE : inclusion en maternelle et attitudes envers l'autisme"
 description: L'impact des dispositifs d'inclusion en maternelle sur les attitudes et interactions entre enfants 
-img: assets/img/1.jpg
+img: assets/img/school.jpeg
 importance: 5
 category: work
 ---
