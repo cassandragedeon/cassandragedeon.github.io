@@ -3,7 +3,7 @@ page_id: project_2
 layout: page
 title: "Biais in Healthcare: Doctor-Patient Communication"
 description: How patients' racial identity shapes medical communication
-img: assets/img/3.jpg
+img: assets/img/image projet 2.jpeg
 importance: 2
 category: work
 giscus_comments: true
