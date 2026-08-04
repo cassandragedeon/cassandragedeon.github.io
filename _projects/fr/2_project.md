@@ -3,7 +3,7 @@ page_id: project_2
 layout: page
 title: "Biais en santé : communication entre médecins et patients"
 description: Comment l'origine ethno-raciale des patient·e·s façonne la communication médicale
-img: assets/img/9.jpg
+img: assets/img/image projet 2.jpeg
 importance: 2
 category: work
 related_publications: true
