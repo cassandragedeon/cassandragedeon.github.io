@@ -427,9 +427,9 @@ ninja.data = [{
           description: "",
           section: "actualités",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-développement-de-la-catégorisation-sociale-et-des-attitudes-intergroupes",
+          title: 'Développement de la catégorisation sociale et des attitudes intergroupes',
+          description: "Comment le contexte façonne la catégorisation sociale et les attitudes intergroupes chez l&#39;enfant",
           section: "projets",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-projeto-2",
