@@ -447,9 +447,9 @@ ninja.data = [{
           description: "How social categories shape the evaluation of others&#39; pain",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-grandir-ensemble-preschool-inclusion-and-attitudes-toward-autism",
+          title: 'GRANDIR ENSEMBLE: Preschool Inclusion and Attitudes Toward Autism',
+          description: "The impact of inclusive preschool programs on children&#39;s attitudes and interactions",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/5_project/";
             },},{id: "projects-project-6",

@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Comment les catégories sociales façonnent l&#39;évaluation de la douleur d&#39;autrui",
           section: "projets",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-grandir-ensemble-preschool-inclusion-and-attitudes-toward-autism",
+          title: 'GRANDIR ENSEMBLE: Preschool Inclusion and Attitudes Toward Autism',
+          description: "The impact of inclusive preschool programs on children&#39;s attitudes and interactions",
           section: "projets",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
