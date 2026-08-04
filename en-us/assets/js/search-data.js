@@ -432,9 +432,9 @@ ninja.data = [{
           description: "How context shapes racial categorization and intergroup attitudes in children",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/en-us/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

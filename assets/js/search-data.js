@@ -432,9 +432,9 @@ ninja.data = [{
           description: "Comment le contexte façonne la catégorisation sociale et les attitudes intergroupes chez l&#39;enfant",
           section: "projets",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "projets",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
